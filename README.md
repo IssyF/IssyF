@@ -1,5 +1,5 @@
-<h5 align="center">Hello 👋 I'm Isabel</h5>
-<p align="center">I've recently completed the Le Wagon Web Development bootcamp in London and I'm looking to become a full-time fullstack developer.</p>
+<h4 align="center">Hello 👋 I'm Isabel</h4>
+<h5 align="center">I've recently completed the Le Wagon Web Development bootcamp in London and I'm looking to become a full-time fullstack developer.</h5>
 
 <!--
 <h3 align="left">Connect with me:</h3>
